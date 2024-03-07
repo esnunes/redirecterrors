@@ -16,7 +16,7 @@ Example configuration with `ForwardAuth`:
 experimental:
   plugins:
     redirectErrors:
-      moduleName: github.com/indivisible/redirecterrors
+      moduleName: github.com/esnunes/redirecterrors
       version: v0.1.0
 ```
 

@@ -1,4 +1,4 @@
-module github.com/indivisible/redirecterrors
+module github.com/esnunes/redirecterrors
 
 go 1.21
 

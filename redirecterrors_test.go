@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/indivisible/redirecterrors"
+	"github.com/esnunes/redirecterrors"
 )
 
 func TestBadConfig(t *testing.T) {
