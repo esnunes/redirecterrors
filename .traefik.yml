@@ -6,6 +6,7 @@ import: github.com/esnunes/redirecterrors
 summary: "Redirect to an URL on HTTP error status codes."
 
 testData:
-  Status:
+  status:
     - "401-403"
-  Target: "http://example.test/"
+  target: "http://example.test/"
+  outputStatus: "303"
